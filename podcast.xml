@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>成都发展播客</title>
+    <link>https://cloudd67.github.io/chengdu-podcast</link>
+    <description>以经济学、城市学与统计学视角，系统解读成都120个发展主题。双主持人对话式AI播客，每集包含数据分析、深度解读和趋势研判。</description>
+    <language>zh-cn</language>
+    <itunes:author>成都发展播客</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://cloudd67.github.io/chengdu-podcast/cover.jpg"/>
+    <image>
+      <url>https://cloudd67.github.io/chengdu-podcast/cover.jpg</url>
+      <title>成都发展播客</title>
+      <link>https://cloudd67.github.io/chengdu-podcast</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>成都发展播客</itunes:name>
+      <itunes:email>podcast@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>第1集：GDP增长5.8%，总量突破2.1万亿元</title>
+      <description>成都2026年Q2经济全景：GDP增长5.8%，总量突破2.1万亿元。第一产业增长3.2%，第二产业增长6.1%，第三产业增长5.9%。经济结构持续优化，高质量发展态势明显，新旧动能转换加速。</description>
+      <itunes:duration>4:33</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E001.mp3" length="4381092" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E001</guid>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第2集：高技术制造业领跑</title>
+      <description>工业增速背后的秘密：高技术制造业领跑。Q2规上工业增加值增长7.2%，高技术制造业增加值增长12.3%，占规上工业比重达34.1%。高技术制造业12.3%的增速远超整体工业，说明成都的电子信息、生物医药、航空航天三大集群正在形成规模效应。</description>
+      <itunes:duration>2:45</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E002.mp3" length="2646561" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E002</guid>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第3集：社零总额突破5200亿</title>
+      <description>消费市场观察：社零总额突破5200亿。Q2社会消费品零售总额5247.6亿元，同比增长6.1%，服务消费占比提升至47.3%。服务消费占比接近50%是一个关键拐点。</description>
+      <itunes:duration>2:56</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E003.mp3" length="2827537" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E003</guid>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第4集：民间投资回暖信号</title>
+      <description>投资结构之变：民间投资回暖信号。Q2固定资产投资增长5.5%，民间投资增速由负转正达3.2%，高技术产业投资增长15.8%。民间投资由负转正是最值得关注的信号。</description>
+      <itunes:duration>3:04</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E004.mp3" length="2947492" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E004</guid>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第5集：三次产业比重为2.8:38.5:58.7，服务业占主导但制造业高质量发展，先进制造业和现代服务业融合加速，产业生态圈建设成效显著</title>
+      <description>成都产业结构优化：三次产业比重为2.8:38.5:58.7，服务业占主导但制造业高质量发展，先进制造业和现代服务业融合加速，产业生态圈建设成效显著。</description>
+      <itunes:duration>3:36</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E005.mp3" length="3469105" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E005</guid>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第6集：服务业增加值增长5.9%，占GDP比重达58.7%，现代服务业占比提升至42%，生产性服务业快速发展，数字经济与服务业深度融合</title>
+      <description>成都服务业高质量发展：服务业增加值增长5.9%，占GDP比重达58.7%，现代服务业占比提升至42%，生产性服务业快速发展，数字经济与服务业深度融合。</description>
+      <itunes:duration>2:04</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E006.mp3" length="1986604" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E006</guid>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第7集：进出口总额达4520亿元，同比增长4.2%，高新技术产品出口占比达68%，对东盟贸易额增长14.2%，开放型经济韧性显现</title>
+      <description>成都外贸进出口观察：进出口总额达4520亿元，同比增长4.2%，高新技术产品出口占比达68%，对东盟贸易额增长14.2%，开放型经济韧性显现。</description>
+      <itunes:duration>2:57</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E007.mp3" length="2846346" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E007</guid>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第8集：CPI温和上涨2.1%背后的消费真相</title>
+      <description>CPI温和上涨2.1%背后的消费真相。Q2居民消费价格指数上涨2.1%，食品价格下降0.3%，服务价格上涨3.2%。食品价格下降而服务价格上涨，这个分化很能说明问题。</description>
+      <itunes:duration>5:27</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E008.mp3" length="5241670" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E008</guid>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第9集：开发投资下降4.2%的新常态</title>
+      <description>房地产市场：开发投资下降4.2%的新常态。Q2房地产开发投资下降4.2%，商品房销售面积下降8.1%，二手房交易量增长12.5%。新房销售下降而二手房交易增长，说明成都房地产市场正在进入存量时代。</description>
+      <itunes:duration>9:35</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E009.mp3" length="9202251" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E009</guid>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第10集：本外币存贷款双增</title>
+      <description>金融业观察：本外币存贷款双增。Q2末本外币存款余额5.87万亿元，增长8.2%，贷款余额5.43万亿元，增长11.5%。贷款增速高于存款增速，说明金融机构对成都经济的信贷支持力度在加大。</description>
+      <itunes:duration>5:46</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E010.mp3" length="5543854" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E010</guid>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第11集：核心产业增加值增长14.6%</title>
+      <description>数字经济引擎：核心产业增加值增长14.6%。Q2数字经济核心产业增加值增长14.6%，占GDP比重达12.8%，软件和信息技术服务业收入增长18.2%。数字经济14.6%的增速远超GDP整体增速，说明它已经成为成都经济增长的主引擎。</description>
+      <itunes:duration>1:11</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E011.mp3" length="1147759" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E011</guid>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第12集：GDP占比超15%</title>
+      <description>高新区经济透视：GDP占比超15%。Q2成都高新区GDP占全市比重达15.3%，高新技术企业突破4500家，技术合同交易额增长22.1%。一个区贡献全市15%以上的GDP，说明高新区的集聚效应非常显著。</description>
+      <itunes:duration>3:21</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E012.mp3" length="3217493" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E012</guid>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第13集：双机场旅客吞吐量恢复增长</title>
+      <description>交通运输业：双机场旅客吞吐量恢复增长。Q2双流和天府国际机场旅客吞吐量合计3287万人次，增长15.2%，货邮吞吐量增长18.3%。旅客吞吐量增长15%说明成都的航空枢纽地位在强化。</description>
+      <itunes:duration>7:17</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E013.mp3" length="6996262" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E013</guid>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第14集：接待游客1.2亿人次</title>
+      <description>文旅消费热潮：接待游客1.2亿人次。Q2接待游客1.23亿人次，增长13.5%，旅游总收入1687亿元，增长16.2%，过夜游客占比提升至43%。过夜游客占比提升到43%是关键信息。</description>
+      <itunes:duration>6:53</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E014.mp3" length="6623025" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E014</guid>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第15集：R&D经费支出增长17.8%</title>
+      <description>科技创新投入：R&D经费支出增长17.8%。Q2全社会R&D经费支出增长17.8%，占GDP比重达3.2%，企业研发投入占比达76.5%。R&D占GDP比重3.2%已经接近创新型国家的标准线。</description>
+      <itunes:duration>1:59</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E015.mp3" length="1907191" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E015</guid>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第16集：新登记市场主体28.4万户</title>
+      <description>营商环境改革：新登记市场主体28.4万户。Q2新登记市场主体28.4万户，增长9.7%，其中企业占比38.2%，市场主体总量达392万户。新登记市场主体中企业占比38.2%，说明创业质量在提升——不只是个体户在增加，公司制企业在增多。</description>
+      <itunes:duration>3:29</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E016.mp3" length="3349151" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E016</guid>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第17集：单位GDP能耗下降4.3%</title>
+      <description>绿色低碳转型：单位GDP能耗下降4.3%。Q2单位GDP能耗下降4.3%，清洁能源消费占比达68.7%，新能源汽车产量增长35.6%。清洁能源消费占比68.7%在全国主要城市中名列前茅，这得益于四川丰富的水电资源。</description>
+      <itunes:duration>4:17</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E017.mp3" length="4118195" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E017</guid>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第18集：成德眉资同城化进展</title>
+      <description>都市圈协同：成德眉资同城化进展。Q2成都都市圈GDP合计1.67万亿元，占全省比重超46%，跨城通勤人数增长23.5%。跨城通勤人数23.5%的增长是最有说服力的同城化指标。</description>
+      <itunes:duration>6:08</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E018.mp3" length="5894940" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E018</guid>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第19集：净流入12.3万人的结构分析</title>
+      <description>人口流动观察：净流入12.3万人的结构分析。Q2成都常住人口净流入12.3万人，其中大学及以上学历占比41.2%，省外来源占比37.8%。净流入人口中四成以上是大学学历，说明成都吸引的不仅是人口数量更是人口质量。</description>
+      <itunes:duration>2:31</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E019.mp3" length="2417937" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E019</guid>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第20集：Q2总结与下半年展望</title>
+      <description>Q2总结与下半年展望。Q2成都经济运行总体平稳，GDP增速5.8%，但房地产开发投资和社零增速仍承压。下半年成都经济的关键变量有三个：一是房地产市场的调整深度，二是外贸环境的不确定性，三是消费信心的恢复程度。</description>
+      <itunes:duration>3:33</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E020.mp3" length="3414770" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E020</guid>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第21集：成都的城市基因</title>
+      <description>三千年城名未改：成都的城市基因。成都建城史超过2300年，是中国少数城名未改、城址未迁的特大城市。成都'城名未改、城址未迁'的连续性在世界城市史上都属罕见。</description>
+      <itunes:duration>11:10</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E021.mp3" length="10722368" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E021</guid>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第22集：两千年水利工程的现代启示</title>
+      <description>都江堰：两千年水利工程的现代启示。都江堰水利工程建于公元前256年，灌溉面积从最初的100万亩扩展到如今的1130万亩。都江堰运行两千多年仍然有效，其核心理念'乘势利导、因时制宜'对现代城市规划仍有启发。</description>
+      <itunes:duration>3:56</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E022.mp3" length="3780066" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E022</guid>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第23集：两千年空间演变</title>
+      <description>从锦城到公园城市：两千年空间演变。成都建成区面积从1949年的18平方公里扩展到2026年的1087平方公里。从18平方公里到1087平方公里，60倍的空间扩张背后是不同的发展逻辑。</description>
+      <itunes:duration>8:44</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E023.mp3" length="8398097" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E023</guid>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第24集：跨越龙泉山的城市突围</title>
+      <description>东进战略：跨越龙泉山的城市突围。东进区域规划面积1326平方公里，已完成固定资产投资超8000亿元，天府国际机场年旅客吞吐量超5000万。跨越龙泉山是成都两千年城市史上的最大空间突破。</description>
+      <itunes:duration>3:09</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E024.mp3" length="3039861" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E024</guid>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第25集：从理念到实践的成都实验</title>
+      <description>公园城市：从理念到实践的成都实验。成都已建成各级绿道超6500公里，公园绿地面积达4.8万公顷，森林覆盖率40.7%。6500公里绿道是全球最长的城市绿道系统。</description>
+      <itunes:duration>5:35</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E025.mp3" length="5364550" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E025</guid>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第26集：轨道上的成都</title>
+      <description>TOD模式：轨道上的成都。成都轨道交通运营里程达642公里，TOD综合开发站点规划87个，首批14个示范项目已开工。642公里的轨交里程在全国排第四，但更关键的是87个TOD站点的规划。</description>
+      <itunes:duration>8:01</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E026.mp3" length="7707211" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E026</guid>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第27集：国家级新区的十年答卷</title>
+      <description>天府新区：国家级新区的十年答卷。天府新区GDP从2014年的168亿元增长到2026年的超3800亿元，集聚人口超180万。十年间GDP增长22倍，这个速度在全国国家级新区中名列前茅。</description>
+      <itunes:duration>2:40</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E027.mp3" length="2567985" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E027</guid>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第28集：少城片区的有机生长</title>
+      <description>老城更新：少城片区的有机生长。少城片区城市更新涉及面积2.1平方公里，保留历史建筑47处，新增公共空间12处。少城更新最有价值的是'留改增'而非大拆大建。</description>
+      <itunes:duration>3:14</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E028.mp3" length="3117601" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E028</guid>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第29集：从排污沟到城市客厅</title>
+      <description>锦江生态带：从排污沟到城市客厅。锦江综合整治工程历时8年，投入超200亿元，水质从劣五类提升到三类，沿岸建成绿道240公里。锦江从劣五类到三类的转变，是成都生态治理最直观的成果。</description>
+      <itunes:duration>2:46</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E029.mp3" length="2670803" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E029</guid>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第30集：从春熙路到交子公园</title>
+      <description>商圈演变：从春熙路到交子公园。成都已形成春熙路、交子公园、双楠等8个市级商圈，2026年社零总额超2万亿。从单一春熙路到8个市级商圈，反映了成都从单中心向多中心的转变。</description>
+      <itunes:duration>6:33</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E030.mp3" length="6300778" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E030</guid>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第31集：成都的园区经济学</title>
+      <description>产业功能区：成都的园区经济学。成都规划了66个产业功能区，覆盖先进制造业、现代服务业和都市现代农业。66个产业功能区是成都空间治理的创新。</description>
+      <itunes:duration>3:59</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E031.mp3" length="3838999" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E031</guid>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第32集：大都市的绿色项圈</title>
+      <description>环城生态公园：大都市的绿色项圈。环城生态公园全长100公里，面积133平方公里，包含78个生态公园和12条水系。环城生态公园不只是绿地带，它实际上是城市的生长边界。</description>
+      <itunes:duration>2:05</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E032.mp3" length="2001650" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E032</guid>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>第33集：蓉欧快铁重塑物流版图</title>
+      <description>国际铁路港：蓉欧快铁重塑物流版图。成都国际铁路港开行国际班列超2000列/年，连接境外城市超100个，货值超800亿元。2000列国际班列让成都从内陆城市变成了物流枢纽。</description>
+      <itunes:duration>2:54</itunes:duration>
+      <pubDate>2026-08-10T12:00:00+08:00</pubDate>
+      <enclosure url="https://cloudd67.github.io/chengdu-podcast/E033.mp3" length="2793265" type="audio/mpeg"/>
+      <guid isPermaLink="false">chengdu-podcast-E033</guid>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
