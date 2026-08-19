@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>成都城市发展观察</title>
-    <link>https://cloudd67.github.io/chengdu-podcast/podcast.xml</link>
+    <link>https://cloudd67.github.io/chengdu-podcast/</link>
     <description>以经济学、城市学与统计学视角，系统解读成都120个发展主题。双主持人对话式AI播客，每集包含数据分析、深度解读和趋势研判。作者：苏鹤爱成都。</description>
     <language>zh-cn</language>
     <itunes:author>苏鹤爱成都</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Society &amp; Culture"><itunes:category text="Personal Journals"/></itunes:category>
+    <itunes:summary>以经济学、城市学与统计学视角，系统解读成都120个发展主题。双主持人对话式AI播客，每集包含数据分析、深度解读和趋势研判，带你看见成都高质量发展的底层逻辑。</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://cloudd67.github.io/chengdu-podcast/cover.jpg"/>
     <image>
       <url>https://cloudd67.github.io/chengdu-podcast/cover.jpg</url>
       <title>成都城市发展观察</title>
-      <link>https://cloudd67.github.io/chengdu-podcast/podcast.xml</link>
+      <link>https://cloudd67.github.io/chengdu-podcast/</link>
     </image>
     <itunes:owner>
       <itunes:name>苏鹤爱成都</itunes:name>
